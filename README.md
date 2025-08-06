@@ -8,3 +8,7 @@
 in case you don't have the specific system requirements mentioned , create a docker container with the following command
 
 - docker pull osrf/ros:jazzy-desktop-full
+
+## Recent Additions :
+
+Integrating with pytest to validate code before it goes into production instead of standard CMake lint packages
