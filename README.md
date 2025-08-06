@@ -12,3 +12,7 @@ in case you don't have the specific system requirements mentioned , create a doc
 ## Recent Additions :
 
 Integrating with pytest to validate code before it goes into production instead of standard CMake lint packages
+
+to test -> 
+
+- colcon test --packages-select ros2_fundamentals_examples --event-handlers console_direct+
